@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw_data
+    database: de-zoomcamp-2026-486014
+    schema: de_zoomcamp_kestra_dataset
+
+    tables:
+      - name: green_tripdata
+      - name: yellow_tripdata
