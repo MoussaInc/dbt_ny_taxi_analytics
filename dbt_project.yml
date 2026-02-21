@@ -7,4 +7,3 @@ profile: "dbt_ny_taxi_analytics"
 model-paths: ["models"]
 seed-paths: ["seeds"]
 macro-paths: ["macros"]
-
